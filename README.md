@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saquibali7
+- 👋 Hi, I’m @saquibali
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
