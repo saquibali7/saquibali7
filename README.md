@@ -1,7 +1,7 @@
 ### Hey, I am Saquib 👋
 
--Computer Engineering Undergrad Student.
--Interested in Machine Learning and Development.
+- Computer Engineering Undergrad Student.
+- Interested in Machine Learning and Development.
 
 <br>
 
