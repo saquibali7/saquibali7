@@ -1,14 +1,15 @@
 ### Hey, I am Saquib 👋
 
+-Computer Engineering Undergrad Student.
 -Interested in Machine Learning and Development.
 
 <br>
 
-## 😃 Contact.
+## Get in Touch...
 
 <p>
 <a href="https://www.linkedin.com/in/saquib-ali-89aa14202/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="github.com/saquibali7"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/saquibali7"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:alisaquib95@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <br>
