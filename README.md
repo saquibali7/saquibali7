@@ -1,4 +1,4 @@
-### Hey, I am Saquib 👋
+### Hey, I am Saquib Ali 👋
 
 - Computer Engineering Undergrad Student.
 - Interested in Machine Learning and Development.
