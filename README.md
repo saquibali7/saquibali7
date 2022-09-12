@@ -1,7 +1,6 @@
 ### Hey, I am Saquib Ali 👋
 
-- Computer Engineering Undergrad Student.
-- Interested in Machine Learning and Development.
+I am a computer engineering student at jamia millia islamia. I am interested in machine learning escpecially computer vision. I primarily intend to apply machine learning methods in healthcare sector, so that it can affect people positively. If  you want to collaborate on project related to machine learning and development get in touch.
 
 <br>
 
