@@ -1,6 +1,6 @@
 ### Hey, I am Saquib Ali 👋
 
-I am pre final year computer engineering student at jamia millia islamia. I am interested in machine learning and deep learning escpecially computer vision. I primarily intend to apply machine learning methods in healthcare sector and other field having positive social impact , so that it can affect people positively. If  you want to collaborate on project related to machine learning then hit me up.
+I am a pre final year computer engineering student at Jamia Millia Islamia. I am interested in machine learning and deep learning escpecially computer vision. I primarily intend to apply machine learning methods in healthcare sector and other field having positive social impact , so that it can affect people positively. If  you want to collaborate on project related to machine learning then hit me up.
 
 <br>
 
