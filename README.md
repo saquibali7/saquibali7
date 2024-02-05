@@ -1,6 +1,6 @@
 ### Hey, I am Saquib Ali 👋
 
-I am a final year computer engineering student at Jamia Millia Islamia. I am interested in machine learning and deep learning escpecially computer vision.
+I am a final year computer engineering student at Jamia Millia Islamia. I am interested in machine learning and deep learning especially computer vision.
 
 <br>
 
